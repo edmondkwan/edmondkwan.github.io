@@ -1,0 +1,84 @@
+---
+title: " "
+format:
+  html:
+    page-layout: full
+---
+
+:::: {.grid}
+
+::: {.g-col-6}
+## Education
+
+{{< fa graduation-cap >}} **Doctor of Philosophy (2017-2021)**  
+Monash University, Melbourne, Australia
+
+{{< fa stethoscope >}} **Bachelor of Medicine, Bachelor of Surgery (2005-2009)**  
+Bond University, Gold Coast, Australia
+
+## Training
+
+**Fellow of the Royal Australasian College of Physicians (2017-Present)** 
+
+**Postdoctoral Fellowship (2021-2024)**  
+Vancouver Prostate Centre, University of British Columbia, Canada
+
+**Genitourinary Oncology Fellowship (2022-2024)**  
+BC Cancer - Vancouver, British Columbia, Canada
+
+**Medical Oncology Advanced Training (2014-2017)**  
+Peter MacCallum Cancer Centre, Melbourne, Australia  
+Royal Melbourne Hospital, Melbourne, Australia
+Western Health, Melbourne, Australia  
+Monash Health, Melbourne, Australia  
+
+**Internship and Basic Physician Training (2010-2014)**  
+Royal Melbourne Hospital, Melbourne, Australia
+
+:::
+
+::: {.g-col-6}
+## Current academic appointments
+
+{{< fa dna >}} **Lab Head and Senior Research Fellow (2024-Present)**<br>
+Eastern Health Clinical School and Biomedicine Discovery Institute
+Monash University, Melbourne, Australia
+
+{{< fa pills >}} **Genitourinary Cancer Medical Oncologist (2024-Present)**<br>
+Eastern Health, Melbourne, Australia
+
+## Leadership and service
+
+**ANZUP translational research subcommittee**  
+TheraP [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
+ENZARAD [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
+DASL-HiCAP [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
+
+**Melbourne Urological Research Alliance PDX program**  
+Prostate Oncology Working Committee
+
+## Research interests and expertise
+
+-  Genitourinary cancers (with prostate cancer focus)
+-  Circulating tumour DNA and tissue biomarkers
+-  Molecular biology and bioinformatics
+-  Integrating translational research into clinical trials
+-  Biobanking and database creation
+
+
+:::
+
+::::
+
+## Current and prior research funding (as Principal Investigator)
+
+-  Prostate Cancer Foundation Young Investigator Award
+-  Australian & New Zealand Urogenital and Prostate Cancer Trials Group Synchrony Fellowship
+-  University of British Columbia Killam Postdoctoral Research Fellowship
+-  Cancer Council Australia Postdoctoral Research Fellowship
+-  National Health and Medical Research Council Postgraduate Scholarship
+-  ANZUP Below the Belt Research Fund
+
+\
+
+For further details on above projects and additional research funding, see Research Funding section of extended CV [here](docs/pdfs/2024-10-16_Master-CV_Edmond-Kwan.pdf#page=2).

@@ -1,7 +1,69 @@
 ---
-title: "edmondkwan.github.io"
+format:
+  html:
+    page-layout: full
 ---
 
-This is a Quarto website.
+:::: {.grid}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-4}
+![](docs/images/profile-pic.png){.roundedimg width=2.5in fig-align="left"}
+
+<div class='centered'>
+
+**Laboratory Head & Senior Research Fellow**  
+Monash University, Melbourne, Australia
+
+**Genitourinary Medical Oncologist**  
+Eastern Health, Melbourne, Australia
+
+<div class="icon-list">
+  {{< ai google-scholar >}} 
+  <a href="https://scholar.google.ca/citations?hl=en&user=FU67caEAAAAJ">Google Scholar</a>
+</div>
+
+<div class="icon-list">
+  {{< fa brands twitter >}} 
+  <a href="https://x.com/EdmondMKwan">Twitter / X</a>
+</div>
+
+<div class="icon-list">
+  {{< ai orcid >}} 
+  <a href="https://orcid.org/0000-0002-7053-680X">ORCID</a>
+</div>
+
+<div class="icon-list">
+  {{< ai pubmed >}} 
+  <a href="https://www.ncbi.nlm.nih.gov/myncbi/1RQvgzm6zlL5y/bibliography/public/">Pubmed</a>
+</div>
+
+
+<div class="icon-list">
+  {{< ai archive >}} 
+  <a href="docs/pdfs/2024-10-16_Master-CV_Edmond-Kwan.pdf">Curriculum vitae</a>
+</div>
+
+<div class="icon-list">
+  {{< fa envelope class="fa-3x" >}} 
+  <a href="mailto:edmond.kwan@monash.edu">Contact me</a>
+</div>
+
+
+
+</div>
+
+:::
+
+::: {.g-col-8}
+## About me
+
+Dr Edmond Kwan is a clinician-scientist and consultant medical oncologist at Eastern Health in Melbourne, Australia. He is currently serving as Laboratory Head and Senior Research Fellow in prostate cancer translational genomics at the Eastern Health Clinical School, with a cross-appointment at the Monash Biomedicine Discovery Institute. 
+
+Dr Kwan completed his MBBS at Bond University and his medical oncology training in Melbourne (Peter MacCallum Cancer Centre, Royal Melbourne Hospital, Western Health, and Monash Health). He subsequently pursued his interest in prostate cancer and genomics research, completing a PhD on biomarkers in metastatic prostate cancer at Monash University, before heading overseas to Vancouver, Canada, to complete a genitourinary clinical fellowship (BC Cancer) and postdoctoral fellowship (Vancouver Prostate Centre, University of British Columbia).
+
+Dr Kwan's expertise encompasses diverse disciplines, including molecular biology, bioinformatics, clinical trials, biobanking, database development, and translational medicine. By combining expertise in cancer genomics and clinical oncology, his research team will strive to understand how genomic and epigenomic alterations identified in tumour tissue and blood can better guide therapeutic decision-making in patients with urological cancers.
+
+
+:::
+
+::::

@@ -1,0 +1,212 @@
+---
+title: " "
+sidebar: false
+format:
+  html:
+    page-layout: full
+    execute:
+      echo: false
+---
+
+A full list of my journal publications is available on [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1RQvgzm6zlL5y/bibliography/public/) or [Google Scholar](https://scholar.google.ca/citations?hl=en&user=FU67caEAAAAJ). 
+
+
+## Selected publications
+
+:::: {.grid}
+
+::: {.g-col-3}
+
+![](docs/images/plasma-chip-seq.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+**Plasma cell-free DNA chromatin immunoprecipitation is associated with phenotypic and clinical heterogeneity in advanced prostate cancer**
+</span>  
+Cancer Research, 2024 (in press)
+
+<span class="publication-author">
+<span>Joonatan Sipola<sup>&dagger;</sup></span>, <span>Asli D. Munzur<sup>&dagger;</sup></span>, <span>**Edmond M. Kwan**<sup>&dagger;</sup></span>, Clara C. Y. Seo, Benjamin J. Hauk, Matti Annala, Corinne Maurice-Dror, Kim N. Chi, Cameron Herberts\*, Alexander W. Wyatt\*, David Y. Takeda*.  
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/m1rp.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+<span class="publication-title">
+  <strong><a href="https://doi.org/10.1038/s43018-023-00692-y" target="_blank">**Multiregion sampling of *de novo* metastatic prostate cancer reveals complex polyclonality and augments clinical genotyping**</a></strong>  
+</span>
+Nature Cancer, 2023
+
+<span class="publication-author">
+<span>Evan W. Warner<sup>&dagger;</sup></span>, <span>Kim Van der Eecken<sup>&dagger;</sup></span>, <span>Andrew J. Murtha<sup>&dagger;</sup></span>, **Edmond M. Kwan**, Cameron Herberts, Joonatan Sipola,
+Sarah W. S. Ng, Xinyi E. Chen, Nicolette M. Fonseca, Elie Ritch, Elena Schönlau, Cecily Q. Bernales, Gráinne Donnellan, Aslı D. Munzur, Karan Parekh, Kevin Beja, Amanda Wong, Sofie Verbeke, Nicolaas Lumen,
+Jo Van Dorpe, Bram De Laere, Matti Annala, Gillian Vandekerkhove, Piet Ost\*, Alexander W. Wyatt\*.  
+</span>
+
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/ctdna-review.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+  <strong><a href="https://doi.org/10.3389/fonc.2022.1054497" target="_blank">**Towards clinical implementation of circulating tumor DNA in metastatic prostate cancer: opportunities for integration and pitfalls to interpretation**</a></strong>  
+</span>
+Frontiers Oncology, 2022  
+
+<span class="publication-author">
+**Edmond M. Kwan**, Alexander W. Wyatt, Kim N. Chi.  
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/ar-alt-review.jpg){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+  <strong><a href="https://doi.org/10.1002/pros.24356" target="_blank">**Androgen receptor genomic alterations and treatment resistance in metastatic prostate cancer**</a></strong>  
+</span>
+The Prostate, 2022  
+
+<span class="publication-author">
+**Edmond M. Kwan**, Alexander W. Wyatt.  
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/therap-pfs.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+<strong><a href="https://doi.org/10.1002/pros.2435" target="_blank">[<sup>177</sup>Lu]Lu-PSMA-617 versus cabazitaxel in patients with metastatic castration-resistant prostate cancer (TheraP): a randomised, open-label, phase 2 trial</a></strong>
+</span>
+The Lancet, 2021
+
+<span class="publication-author">
+Michael S. Hofman, Louise Emmett, Shahneen Sandhu, Amir Iravani, Anthony M. Joshua, Jeffrey C. Goh, David A. Pattison, Thean Hsiang Tan, Ian D. Kirkwood, Siobhan Ng, Roslyn J. Francis, Craig Gedye, Natalie K. Rutherford, Andrew Weickhardt , Andrew M. Scott, Sze-Ting Lee, **Edmond M. Kwan**, Arun A. Azad, Shakher Ramdave, Andrew D. Redfern, William Macdonald, Alex Guminski, Edward Hsiao, Wei Chua, Peter Lin, Alison Y. Zhang, Margaret M. McJannett, Martin R. Stockler, John A. Violet, Scott G. Williams, Andrew J. Martin, Ian D. Davis, for the TheraP Trial Investigators and the Australian and New Zealand Urogenital and Prostate Cancer Trials Group.
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/ice-pac.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+<strong><a href="https://doi.org/10.1016/j.eururo.2021.08.011" target="_blank">Avelumab combined with stereotactic ablative body radiotherapy in metastatic castration-resistant prostate cancer: the phase 2 ICE-PAC clinical trial</a></strong>
+</span>  
+European Urology, 2022  
+
+<span class="publication-author">
+**Edmond M. Kwan**, Lavinia Spain, Angelyn Anton, Chun L. Gan, Linda Garrett,
+Deborah Chang, Elizabeth Liow, Caitlin Bennett, Tiantian Zheng, Jianjun Yu, Chao Dai,
+Pan Du, Shidong Jia, Heidi Fettkeh, Claire Abou-Seif, Gargi Kothari, Mark Shaw,
+Phillip Parente, Carmel Pezaro, Ben Tran, Shankar Siva, Arun A. Azad.
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/pi3k-ar.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+<strong><a href="https://doi.org/10.1200/PO.20.00424" target="_blank">Plasma cell–free DNA profiling of PTEN-PI3K-AKT pathway aberrations in metastatic castration-resistant prostate cancer</a></strong>
+</span>  
+JCO Precision Oncology, 2022  
+
+<span class="publication-author">
+<span>**Edmond M. Kwan**<sup>&dagger;</sup></span>, <span>Chao Dai<sup>&dagger;</sup></span>, <span>Heidi Fettke<sup>&dagger;</sup></span>, Christine Hauser, Maria M. Docanto, Patricia Bukczynska, Nicole Ng, 
+Siavash Foroughi, Lisa-Jane K. Graham, Kate Mahon, Winston Tan, Xiaohong Wang, Zhixin Zhao, Tiantian Zheng, Kemin Zhou, Jianjun Yu, Pan Du, Lisa G. Horvath, Shidong Jia, Manish Kohli, Arun A. Azad.  
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/gene-sig.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+<strong><a href="https://doi.org/10.1016/j.euf.2019.04.020" target="_blank">Prognostic utility of a whole-blood androgen receptor-based gene signature in metastatic castration-resistant prostate cancer</a></strong>
+</span>  
+European Urology Focus, 2021
+
+<span class="publication-author">
+**Edmond M. Kwan**, Heidi Fettke, Maria M. Docanto, Sarah Q. To, Patricia Bukczynska, Andrew Mant, David Pook, Nicole Ng, Lisa-Jane K. Graham, Stefano Mangiola, Eva Segelov, Kate Mahon, Ian D. Davis, Phillip Parente, Carmel Pezaro, Tilman Todenhofer, Lisa G. Horvath, Arun A. Azad.
+</span>
+
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/ar-dna-rna.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+<strong><a href="https://doi.org/10.1016/j.eururo.2020.03.044" target="_blank">Combined cell-free DNA and RNA profiling of the androgen receptor: clinical utility of a novel multi-analyte liquid biopsy assay for metastatic prostate cancer</a></strong>
+</span>
+European Urology, 2020
+
+<span class="publication-author">
+<span>Heidi Fettke<sup>&dagger;</sup></span>, <span>**Edmond M. Kwan**<sup>&dagger;</sup></span>, Maria M. Docanto, Patricia Bukczynska, Nicole Ng, Lisa-Jane K. Graham, Kate Mahon, Christine Hauser, Winston Tan, Xiao Hong Wang,
+Zhixin Zhao, Tiantian Zheng, Kemin Zhou, Pan Du, Jianjun Yu, Yong Huang, Shidong Jia, Manish Kohli, Lisa G. Horvath, Arun A. Azad.
+</span>
+
+\
+
+:::
+
+
+::::

@@ -1,0 +1,64 @@
+---
+title: " "
+sidebar: false
+format:
+  html:
+    page-layout: full
+    execute:
+      echo: false
+---
+
+A full list of my journal publications is available on [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1RQvgzm6zlL5y/bibliography/public/) or [Google Scholar](https://scholar.google.ca/citations?hl=en&user=FU67caEAAAAJ). 
+
+
+## Selected publications
+
+:::: {.grid}
+
+::: {.g-col-3}
+
+![](docs/images/ar-alt-review.jpg){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+**Androgen receptor genomic alterations and treatment resistance in metastatic prostate cancer**
+</span>  
+The Prostate, 2022  
+
+<span class="publication-author">
+**Edmond M. Kwan** & Alexander W. Wyatt  
+<a href="https://doi.org/10.1002/pros.24356" style="font-size: 10pt;">Link</a>
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/ar-alt-review.jpg){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+**Androgen receptor genomic alterations and treatment resistance in metastatic prostate cancer**
+</span>  
+The Prostate, 2022  
+
+<span class="publication-author">
+**E.M. Kwan** & A.W. Wyatt  
+<a href="https://doi.org/10.1002/pros.24356" style="font-size: 10pt;">Link</a>
+</span>
+
+\
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:::
+
+::::

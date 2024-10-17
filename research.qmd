@@ -1,0 +1,38 @@
+---
+title: " "
+format:
+  html:
+    page-layout: full
+---
+## Research interests and expertise
+
+-  Genitourinary cancers (with prostate cancer focus)
+-  Circulating tumour DNA and tissue biomarkers
+-  Molecular biology and bioinformatics
+-  Integrating translational research into clinical trials
+-  Biobanking and database creation
+
+
+## Grants and funding
+
+-  2023-2024, Australian & New Zealand Urogenital and Prostate (ANZUP) Cancer Trials Group Synchrony Fellowship Award
+-  2022-2024, Prostate Cancer Foundation Young Investigator Award
+-  2022-2023, University of British Columbia Killam Postdoctoral Research Fellowship
+-  2021, Cancer Council Australia Postdoctoral Research Fellowship
+-  2017-2020, National Health and Medical Research Council Postgraduate Scholarship
+-  2018, ANZUP Below the Belt Research Fund
+
+For further details on above projects and additional research funding, see Research Funding section of extended CV [here](docs/pdfs/2024-10-16_Master-CV_Edmond-Kwan.pdf#page=2).
+
+## Committees
+
+**ANZUP translational research subcommittee**  
+TheraP [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
+ENZARAD [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
+DASL-HiCAP [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
+
+**Melbourne Urological Research Alliance PDX program**  
+Prostate Oncology Working Committee
+
+
+

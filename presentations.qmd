@@ -1,0 +1,100 @@
+---
+title: " "
+sidebar: false
+format:
+  html:
+    page-layout: full
+    execute:
+      echo: false
+---
+
+:::: {.grid}
+
+::: {.g-col-3}
+
+<iframe width="260" height="180" src="https://www.youtube.com/embed/axEBAOMXSEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+:::
+
+::: {.g-col-8}
+
+
+<span class="publication-title">
+**The intersection between genomics and new therapies in advanced prostate cancer**
+</span>  
+[Prostate Cancer Foundation Coast to Coast Support Group Meeting](https://prostatecanada.ca/about-prostate-cancer/video-library)
+
+<span class="publication-author">
+**Online with Dr Sofie Tolmeijer from the Vancouver Prostate Centre**  
+27 August 2024
+</span>
+
+:::
+
+::: {.g-col-3}
+
+![](docs/images/urotoday-lupsma.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+
+<span class="publication-title">
+**Circulating tumour DNA fraction as a predictor of treatment efficacy**
+</span>  
+[ASCO 2024 UroToday Interview](https://www.urotoday.com/video-lectures/the-prostate-cancer-foundation/video/4131-ctdna-fraction-predicts-response-to-lutetium-psma-in-therap-trial-for-mcrpc-edmond-kwan.html)
+
+<span class="publication-author">
+**Chicago, USA**  
+1 June 2024
+</span>
+
+:::
+
+::: {.g-col-3}
+
+<iframe width="260" height="180" src="https://www.youtube.com/embed/r2NnMG30s7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+:::
+
+::: {.g-col-8}
+
+
+<span class="publication-title">
+**Plasma ctDNA to unravel biological insights of PSMA radioligand therapy**
+</span>  
+[ProsTIC Preceptorship](https://www.prostic24.org/)
+
+<span class="publication-author">
+**Melbourne, Australia**  
+16 March 2024
+</span>
+
+:::
+
+::: {.g-col-3}
+
+<iframe width="260" height="180" src="https://www.youtube.com/embed/1b6x3rE5Et4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+:::
+
+::: {.g-col-8}
+
+
+<span class="publication-title">
+**Treatment advances in metastatic prostate cancer**
+</span>  
+[Vancouver Prostate Cancer Support Group meeting](https://www.vancouverprostate.com/)
+
+<span class="publication-author">
+**Online**  
+6 May 2022
+</span>
+
+:::
+
+::::

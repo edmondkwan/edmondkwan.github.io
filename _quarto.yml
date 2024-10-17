@@ -1,19 +1,26 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "edmondkwan.github.io"
+  title: "Edmond Kwan MBBS PhD FRACP"
+  
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
 
 format:
   html:
-    theme: cosmo
+    theme: flatly #flatly/darkly also nice
     css: styles.css
-    toc: true
+    toc: false
 
 
 
