@@ -64,5 +64,9 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+ul {
+  list-style-type: square;
+}
+
 
 /*-- scss:defaults --*/

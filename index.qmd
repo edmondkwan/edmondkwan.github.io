@@ -14,7 +14,7 @@ format:
 **Laboratory Head & Senior Research Fellow**  
 Monash University, Melbourne, Australia
 
-**Genitourinary Medical Oncologist**  
+**Genitourinary Cancer Medical Oncologist**  
 Eastern Health, Melbourne, Australia
 
 <div class="icon-list">
@@ -57,12 +57,11 @@ Eastern Health, Melbourne, Australia
 ::: {.g-col-8}
 ## About me
 
-Dr Edmond Kwan is a clinician-scientist and consultant medical oncologist at Eastern Health in Melbourne, Australia. He is currently serving as Laboratory Head and Senior Research Fellow in prostate cancer translational genomics at the Eastern Health Clinical School, with a cross-appointment at the Monash Biomedicine Discovery Institute. 
+I am a clinician-scientist and genitourinary cancer medical oncologist at Eastern Health in Melbourne, Australia. I currently serve as Laboratory Head and Senior Research Fellow at Eastern Health Clinical School, Monash University, with a cross-appointment within the Biomedicine Discovery Institute Prostate Cancer Research Group. 
 
-Dr Kwan completed his MBBS at Bond University and his medical oncology training in Melbourne (Peter MacCallum Cancer Centre, Royal Melbourne Hospital, Western Health, and Monash Health). He subsequently pursued his interest in prostate cancer and genomics research, completing a PhD on biomarkers in metastatic prostate cancer at Monash University, before heading overseas to Vancouver, Canada, to complete a genitourinary clinical fellowship (BC Cancer) and postdoctoral fellowship (Vancouver Prostate Centre, University of British Columbia).
+After completing my specialist training, I pursued a PhD at Monash University, focusing on prostate cancer genomics. I then relocated to Vancouver, Canada, where I completed a genitourinary clinical fellowship at BC Cancer and a postdoctoral fellowship at the Vancouver Prostate Centre, University of British Columbia. My postdoctoral research centered on developing tissue and circulating tumour DNA biomarkers to predict treatment outcomes in lethal metastatic prostate cancer, using samples collected from prospective clinical trials and large biobanks to explore disease biology and tumour evolution. In October 2024, I returned to Australia to begin my independent research career. 
 
-Dr Kwan's expertise encompasses diverse disciplines, including molecular biology, bioinformatics, clinical trials, biobanking, database development, and translational medicine. By combining expertise in cancer genomics and clinical oncology, his research team will strive to understand how genomic and epigenomic alterations identified in tumour tissue and blood can better guide therapeutic decision-making in patients with urological cancers.
-
+My research interests encompass diverse disciplines, including molecular biology, bioinformatics, clinical trials, biobanking, clinical database development, and translational medicine. By combining expertise in cancer genomics and clinical oncology, my research team strives to understand how genomic and epigenomic alterations identified in both tumour tissue and blood can better guide therapeutic decision-making in patients with urological cancers.
 
 :::
 

@@ -24,7 +24,7 @@ A full list of my journal publications is available on [PubMed](https://www.ncbi
 ::: {.g-col-8}
 
 <span class="publication-title">
-**Plasma cell-free DNA chromatin immunoprecipitation is associated with phenotypic and clinical heterogeneity in advanced prostate cancer**
+<strong>Plasma cell-free DNA chromatin immunoprecipitation is associated with phenotypic and clinical heterogeneity in advanced prostate cancer</strong>
 </span>  
 Cancer Research, 2024 (in press)
 
@@ -108,7 +108,7 @@ The Prostate, 2022
 ::: {.g-col-8}
 
 <span class="publication-title">
-<strong><a href="https://doi.org/10.1002/pros.2435" target="_blank">[<sup>177</sup>Lu]Lu-PSMA-617 versus cabazitaxel in patients with metastatic castration-resistant prostate cancer (TheraP): a randomised, open-label, phase 2 trial</a></strong>
+<strong><a href="https://doi.org/10.1002/pros.2435" target="_blank">[<sup>177</sup>Lu]Lu-PSMA-617 versus cabazitaxel in patients with metastatic castration-resistant prostate cancer (TheraP): a randomised, open-label, phase 2 trial</a></strong>  
 </span>
 The Lancet, 2021
 
