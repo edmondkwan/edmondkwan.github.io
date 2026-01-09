@@ -33,7 +33,7 @@ The intersection between genomics and new therapies in advanced prostate cancer
 
 ::: {.g-col-3}
 
-![](docs/images/urotoday-lupsma.png){fig-align="left"}
+![](images/urotoday-lupsma.png){fig-align="left"}
 
 :::
 

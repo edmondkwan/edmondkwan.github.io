@@ -22,7 +22,7 @@ format:
 -  2017-2020, National Health and Medical Research Council Postgraduate Scholarship
 -  2018, ANZUP Below the Belt Research Fund
 
-For further details on above projects and additional research funding, see Research Funding section of extended CV [here](docs/pdfs/2024-10-16_Master-CV_Edmond-Kwan.pdf#page=2).
+For further details on above projects and additional research funding, see Research Funding section of extended CV [here](pdfs/2024-10-16_Master-CV_Edmond-Kwan.pdf#page=2).
 
 ## Committees
 

@@ -7,7 +7,7 @@ format:
 :::: {.grid}
 
 ::: {.g-col-4}
-![](docs/images/profile-pic.png){.roundedimg width=2.5in fig-align="left"}
+![](images/profile-pic.png){.roundedimg width=2.5in fig-align="left"}
 
 <div class='centered'>
 
@@ -40,7 +40,7 @@ Eastern Health, Melbourne, Australia
 
 <div class="icon-list">
   {{< ai archive >}} 
-  <a href="docs/pdfs/2024-10-16_Master-CV_Edmond-Kwan.pdf">Curriculum vitae</a>
+  <a href="pdfs/2024-10-16_Master-CV_Edmond-Kwan.pdf">Curriculum vitae</a>
 </div>
 
 <div class="icon-list">
