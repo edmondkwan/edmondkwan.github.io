@@ -34,11 +34,17 @@ quarto render publications.qmd
   - `presentations.qmd` - Embedded videos and presentation links
   - `cv-archive.qmd` - CV archive page
 
+- **Images**: `images/` - Source images directory in root
+  - Quarto automatically copies these to `docs/images/` during render
+  - **IMPORTANT**: Always add new images to `images/` (root), NOT `docs/images/`
+  - Reference in .qmd files as: `![](images/filename.png)`
+
 - **Configuration**: `_quarto.yml` - Site-wide settings, navigation, theme (flatly), and output directory (`docs/`)
 
 - **Styling**: `styles.css` - Custom CSS for rounded images, publication formatting, icon lists, and typography
 
 - **Output**: `docs/` - Rendered HTML output (this is what gets published to GitHub Pages)
+  - `docs/images/` - Auto-generated copy of images/ during render (DO NOT edit directly)
 
 - **Extensions**: `_extensions/` - Quarto extensions for FontAwesome and Academicons icons
   - `fontawesome/` - Font Awesome icons (e.g., `{{< fa brands twitter >}}`)
@@ -73,5 +79,14 @@ quarto render publications.qmd
 - Output directory is `docs/` (configured for GitHub Pages)
 - Theme is "flatly" (can be changed in `_quarto.yml`)
 - Table of contents is disabled globally (`toc: false`)
-- Images are stored in `docs/images/` and PDFs in `docs/pdfs/`
+- **Images**: Source images are in root `images/` directory - Quarto copies them to `docs/images/` during render
+- **PDFs**: Store in `docs/pdfs/` (if needed in future)
 - The `.nojekyll` file prevents GitHub from processing the site with Jekyll
+
+## Adding New Images
+
+When adding new publication or profile images:
+1. Add image file to `images/` directory (in root, not in docs/)
+2. Reference in .qmd files as: `![](images/filename.png)`
+3. Run `quarto render` - Quarto will automatically copy to `docs/images/`
+4. Commit both `images/filename.png` AND `docs/images/filename.png`
