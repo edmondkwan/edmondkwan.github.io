@@ -192,9 +192,18 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><code>presentations.qmd</code> - Embedded videos and presentation links</li>
 <li><code>cv-archive.qmd</code> - CV archive page</li>
 </ul></li>
+<li><p><strong>Images</strong>: <code>images/</code> - Source images directory in root</p>
+<ul>
+<li>Quarto automatically copies these to <code>docs/images/</code> during render</li>
+<li><strong>IMPORTANT</strong>: Always add new images to <code>images/</code> (root), NOT <code>docs/images/</code></li>
+<li>Reference in .qmd files as: <code>![](images/filename.png)</code></li>
+</ul></li>
 <li><p><strong>Configuration</strong>: <code>_quarto.yml</code> - Site-wide settings, navigation, theme (flatly), and output directory (<code>docs/</code>)</p></li>
 <li><p><strong>Styling</strong>: <code>styles.css</code> - Custom CSS for rounded images, publication formatting, icon lists, and typography</p></li>
-<li><p><strong>Output</strong>: <code>docs/</code> - Rendered HTML output (this is what gets published to GitHub Pages)</p></li>
+<li><p><strong>Output</strong>: <code>docs/</code> - Rendered HTML output (this is what gets published to GitHub Pages)</p>
+<ul>
+<li><code>docs/images/</code> - Auto-generated copy of images/ during render (DO NOT edit directly)</li>
+</ul></li>
 <li><p><strong>Extensions</strong>: <code>_extensions/</code> - Quarto extensions for FontAwesome and Academicons icons</p>
 <ul>
 <li><code>fontawesome/</code> - Font Awesome icons (e.g., <code></code>)</li>
@@ -222,9 +231,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Output directory is <code>docs/</code> (configured for GitHub Pages)</li>
 <li>Theme is “flatly” (can be changed in <code>_quarto.yml</code>)</li>
 <li>Table of contents is disabled globally (<code>toc: false</code>)</li>
-<li>Images are stored in <code>docs/images/</code> and PDFs in <code>docs/pdfs/</code></li>
+<li><strong>Images</strong>: Source images are in root <code>images/</code> directory - Quarto copies them to <code>docs/images/</code> during render</li>
+<li><strong>PDFs</strong>: Store in <code>docs/pdfs/</code> (if needed in future)</li>
 <li>The <code>.nojekyll</code> file prevents GitHub from processing the site with Jekyll</li>
 </ul>
+</section>
+<section id="adding-new-images" class="level2">
+<h2 class="anchored" data-anchor-id="adding-new-images">Adding New Images</h2>
+<p>When adding new publication or profile images: 1. Add image file to <code>images/</code> directory (in root, not in docs/) 2. Reference in .qmd files as: <code>![](images/filename.png)</code> 3. Run <code>quarto render</code> - Quarto will automatically copy to <code>docs/images/</code> 4. Commit both <code>images/filename.png</code> AND <code>docs/images/filename.png</code></p>
 
 
 </section>

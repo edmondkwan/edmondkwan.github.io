@@ -24,7 +24,7 @@ A full list of my journal publications is available on [PubMed](https://www.ncbi
 ::: {.g-col-8}
 
 <span class="publication-title">
-<strong><a href="https://doi.org/10.1038/s41591-025-03704-9" target="_blank">Lutetium-177-PSMA-617 or cabazitaxel in metastatic prostate cancer: circulating tumor DNA analysis of the randomized phase 2 TheraP trial</a></strong>
+<strong><a href="https://doi.org/10.1038/s41591-025-03704-9" target="_blank">**Lutetium-177-PSMA-617 or cabazitaxel in metastatic prostate cancer: circulating tumor DNA analysis of the randomized phase 2 TheraP trial**</a></strong>
 </span>  
 Nature Medicine, 2025
 
