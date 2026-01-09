@@ -17,6 +17,27 @@ A full list of my journal publications is available on [PubMed](https://www.ncbi
 
 ::: {.g-col-3}
 
+![](docs/images/lupsma-ctdna.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+<strong><a href="https://doi.org/10.1038/s41591-025-03704-9" target="_blank">Lutetium-177-PSMA-617 or cabazitaxel in metastatic prostate cancer: circulating tumor DNA analysis of the randomized phase 2 TheraP trial</a></strong>
+</span>
+Nature Medicine, 2025
+
+<span class="publication-author">
+<span>**Edmond M. Kwan**<sup>&dagger;</sup></span>, <span>Sarah W. S. Ng<sup>&dagger;</sup></span>, Sofie H. Tolmeijer, Louise Emmett, Shahneen Sandhu, James P. Buteau, Amir Iravani, Anthony M. Joshua, Roslyn J. Francis, Vinod Subhash, Sze-Ting Lee, Andrew M. Scott, Andrew J. Martin, Martin R. Stockler, Gráinne Donnellan, Matti Annala, Cameron Herberts, Ian D. Davis, Michael S. Hofman, Arun A. Azad, Alexander W. Wyatt.
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
 ![](docs/images/plasma-chip-seq.png){fig-align="left"}
 
 :::
