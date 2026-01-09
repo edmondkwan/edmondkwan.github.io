@@ -93,4 +93,18 @@ Treatment advances in metastatic prostate cancer
 
 :::
 
+::: {.g-col-8}
+
+<span class="publication-title">
+  <strong><a href="https://www.vancouverprostate.com/" target="_blank">Vancouver Prostate Cancer Support Group meeting</a></strong>  
+</span>
+Treatment advances in metastatic prostate cancer
+
+<span class="publication-author">
+**Online**  
+6 May 2022
+</span>
+
+:::
+
 ::::
