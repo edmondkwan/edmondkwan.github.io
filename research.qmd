@@ -15,6 +15,11 @@ format:
 
 ## Grants and funding
 
+The following list represents funding obtained as either Principal Investigator or Co-Principal Investigator:
+
+-  2026-2027, Eastern Health Institute Oliver Blumberg Prostate Cancer Research Grant
+-  2026, Viertel Charitable Foundation Clinical Investigator Award
+-  2025-2026, ANZUP Below the Belt Research Fund
 -  2023-2024, Australian & New Zealand Urogenital and Prostate (ANZUP) Cancer Trials Group Synchrony Fellowship Award
 -  2022-2024, Prostate Cancer Foundation Young Investigator Award
 -  2022-2023, University of British Columbia Killam Postdoctoral Research Fellowship
