@@ -68,5 +68,19 @@ ul {
   list-style-type: square;
 }
 
+/* Grants header styling */
+.grants-header {
+  border-bottom: 1px solid #dee2e6;
+  padding-top: 0px; 
+  padding-bottom: 0px;
+  margin-bottom: 12px;
+  align-items: center;
+}
+
+.grants-header > div {
+  display: flex;
+  align-items: center;
+}
+
 
 /*-- scss:defaults --*/

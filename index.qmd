@@ -39,8 +39,8 @@ Eastern Health, Melbourne, Australia
 
 
 <div class="icon-list">
-  {{< ai archive >}} 
-  <a href="pdfs/2024-10-16_Master-CV_Edmond-Kwan.pdf">Curriculum vitae</a>
+  {{< ai archive >}}
+  <a href="pdfs/2026-01-10_MasterCV_EdmondKwan.pdf">Curriculum vitae</a>
 </div>
 
 <div class="icon-list">
