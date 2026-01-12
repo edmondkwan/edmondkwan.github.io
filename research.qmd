@@ -42,7 +42,3 @@ DASL-HiCAP [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)
 
 **Melbourne Urological Research Alliance PDX program**  
 Prostate Oncology Working Committee
-
-
-
-
