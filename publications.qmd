@@ -45,9 +45,9 @@ Nature Medicine, 2025
 ::: {.g-col-8}
 
 <span class="publication-title">
-<strong>Plasma cell-free DNA chromatin immunoprecipitation is associated with phenotypic and clinical heterogeneity in advanced prostate cancer</strong>
-</span>  
-Cancer Research, 2024 (in press)
+<strong><a href="https://aacrjournals.org/cancerres/article-abstract/85/4/791/751419/Plasma-Cell-Free-DNA-Chromatin-Immunoprecipitation" target="_blank">Plasma cell-free DNA chromatin immunoprecipitation is associated with phenotypic and clinical heterogeneity in advanced prostate cancer</a></strong>
+</span>
+Cancer Research, 2025
 
 <span class="publication-author">
 <span>Joonatan Sipola<sup>&dagger;</sup></span>, <span>Asli D. Munzur<sup>&dagger;</sup></span>, <span>**Edmond M. Kwan**<sup>&dagger;</sup></span>, Clara C. Y. Seo, Benjamin J. Hauk, Matti Annala, Corinne Maurice-Dror, Kim N. Chi, Cameron Herberts\*, Alexander W. Wyatt\*, David Y. Takeda*.  
