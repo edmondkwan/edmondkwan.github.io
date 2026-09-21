@@ -19,12 +19,12 @@ format:
 ::: {.g-col-8}
 
 <span class="publication-title">
-  <strong><a href="https://vimeo.com/1142183779/88d8d29b3a?share=copy&fl=cl&fe=ci#t=1560.809" target="_blank">Prostate Cancer Foundation Scientific Retreat 2025</a></strong>
+  <strong><a href="https://vimeo.com/1142183779/88d8d29b3a?share=copy&fl=cl&fe=ci#t=1560.809" target="_blank">Prostate Cancer Foundation Scientific Retreat 2025</a></strong>  
 </span>
 Circulating tumour DNA genomic correlatives in mCRPC treated with LuPSMA or cabazitaxel from the randomised phase II TheraP trial (ANZUP 1603)
 
 <span class="publication-author">
-**Carlsbad, California, USA**
+**Carlsbad, California, USA**  
 25 October 2025
 </span>
 
