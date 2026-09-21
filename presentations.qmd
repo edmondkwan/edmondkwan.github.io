@@ -12,7 +12,7 @@ format:
 
 ::: {.g-col-3}
 
-[![](images/pcf-retreat-2025.png){fig-align="left"}](https://vimeo.com/1142183779/88d8d29b3a)
+[![](images/pcf-retreat-2025.png){fig-align="left"}](https://vimeo.com/1142183779/88d8d29b3a?share=copy&fl=cl&fe=ci#t=1560.809)
 
 :::
 
