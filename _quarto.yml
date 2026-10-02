@@ -6,7 +6,6 @@ project:
     - research.qmd
     - publications.qmd
     - presentations.qmd
-    - cv-archive.qmd
 
 website:
   title: "Edmond Kwan MBBS PhD FRACP"

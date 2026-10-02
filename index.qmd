@@ -1,4 +1,5 @@
 ---
+pagetitle: "About"
 format:
   html:
     page-layout: full

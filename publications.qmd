@@ -1,4 +1,5 @@
 ---
+pagetitle: "Publications"
 title: " "
 sidebar: false
 format:
