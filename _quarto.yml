@@ -6,9 +6,15 @@ project:
     - research.qmd
     - publications.qmd
     - presentations.qmd
+    - privacy.qmd
 
 website:
   title: "Edmond Kwan MBBS PhD FRACP"
+  google-analytics: "G-VEHCJ5VR6V"
+  page-footer:
+    center:
+      - text: "Privacy"
+        href: privacy.qmd
   
   navbar:
     right:

@@ -1,0 +1,12 @@
+---
+title: "Privacy"
+pagetitle: "Privacy"
+---
+
+This website uses Google Analytics to understand how many people visit, which pages they read, and how they found the site.
+
+Google Analytics uses cookies to collect information such as the pages you view, your approximate location (city or country), your device and browser, and the website that referred you here. It does not store your IP address. I only see this information in aggregate, and I can't identify individual visitors from it. The data isn't used for advertising.
+
+The data is processed by Google under [Google's Privacy Policy](https://policies.google.com/privacy). If you'd rather not be counted, you can block cookies in your browser or install the [Google Analytics opt-out add-on](https://tools.google.com/dlpage/gaoptout).
+
+If you have any questions, please get in touch using the details on the [About](index.qmd) page.
