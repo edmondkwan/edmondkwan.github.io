@@ -16,30 +16,39 @@ format:
 
 ## Grants and funding
 
-The following list represents funding obtained as either Principal Investigator or Co-Principal Investigator:
+The following list represents funding obtained as lead or co-lead investigator:
 
+-  **2027-2028**, Prostate Cancer Foundation Challenge Award (OPTIMAL-PSMA)
+-  **2026-2028**, Prostate Cancer Foundation of Australia Ignite Synergy Grant (Team Leader)
 -  **2026-2027**, Eastern Health Institute Oliver Blumberg Prostate Cancer Research Grant
+-  **2026**, Monash Partners and Equity Trustees STAR Clinical Fellowship
 -  **2026**, Viertel Charitable Foundation Clinical Investigator Award
 -  **2025-2026**, ANZUP Below the Belt Research Fund
--  **2023-2024**, Australian & New Zealand Urogenital and Prostate (ANZUP) Cancer Trials Group Synchrony Fellowship Award
+-  **2024-2025**, Australian & New Zealand Urogenital and Prostate (ANZUP) Cancer Trials Group Synchrony Fellowship Award
 -  **2022-2024**, Prostate Cancer Foundation Young Investigator Award
 -  **2022-2023**, University of British Columbia Killam Postdoctoral Research Fellowship
 -  **2021**, Cancer Council Australia Postdoctoral Research Fellowship
 -  **2017-2020**, National Health and Medical Research Council Postgraduate Scholarship
 -  **2018**, ANZUP Below the Belt Research Fund
 
-For further details on above projects and additional research funding, see Research Funding section of extended CV [here](pdfs/2026-09-21_CV_EdmondKwan.pdf#page=2).
+For further details on above projects and additional research funding, see Research Funding section of extended CV [here](pdfs/2026-10-28_CV_EdmondKwan.pdf#page=3).
 
 
 ## Committees
 
-**European Society of Medical Oncology (ESMO) Global Leadership Program**  
+**Monash Partners Health Translation Network**
+Early- and Mid-Career Researcher (EMCR) Co-Lead, 2026-present
+
+**European Society of Medical Oncology (ESMO) Global Leadership Program**
 Class of 2025-2026
 
-**ANZUP translational research subcommittee**  
-TheraP [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
-ENZARAD [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
-DASL-HiCAP [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)  
+**ANZUP Annual Scientific Meeting Organising Committee**
+2025-present
+
+**ANZUP translational research subcommittee**
+TheraP [(NCT03392428)](https://clinicaltrials.gov/study/NCT03392428)
+ENZARAD [(NCT02446444)](https://clinicaltrials.gov/study/NCT02446444)
+DASL-HiCAP [(NCT04136353)](https://clinicaltrials.gov/study/NCT04136353)
 
 **Melbourne Urological Research Alliance PDX program**  
 Prostate Oncology Working Committee

@@ -46,7 +46,7 @@ Nature Medicine, 2025
 ::: {.g-col-8}
 
 <span class="publication-title">
-<strong><a href="https://aacrjournals.org/cancerres/article-abstract/85/4/791/751419/Plasma-Cell-Free-DNA-Chromatin-Immunoprecipitation" target="_blank">Plasma cell-free DNA chromatin immunoprecipitation is associated with phenotypic and clinical heterogeneity in advanced prostate cancer</a></strong>
+<strong><a href="https://aacrjournals.org/cancerres/article-abstract/85/4/791/751419/Plasma-Cell-Free-DNA-Chromatin-Immunoprecipitation" target="_blank">Plasma cell-free DNA chromatin immunoprecipitation profiling depicts phenotypic and clinical heterogeneity in advanced prostate cancer</a></strong>
 </span>
 Cancer Research, 2025
 
@@ -68,7 +68,7 @@ Cancer Research, 2025
 <span class="publication-title">
   <strong><a href="https://doi.org/10.1038/s43018-023-00692-y" target="_blank">**Multiregion sampling of *de novo* metastatic prostate cancer reveals complex polyclonality and augments clinical genotyping**</a></strong>  
 </span>
-Nature Cancer, 2023
+Nature Cancer, 2024
 
 <span class="publication-author">
 <span>Evan W. Warner<sup>&dagger;</sup></span>, <span>Kim Van der Eecken<sup>&dagger;</sup></span>, <span>Andrew J. Murtha<sup>&dagger;</sup></span>, **Edmond M. Kwan**, Cameron Herberts, Joonatan Sipola,
@@ -130,7 +130,7 @@ The Prostate, 2022
 ::: {.g-col-8}
 
 <span class="publication-title">
-<strong><a href="https://doi.org/10.1002/pros.2435" target="_blank">[<sup>177</sup>Lu]Lu-PSMA-617 versus cabazitaxel in patients with metastatic castration-resistant prostate cancer (TheraP): a randomised, open-label, phase 2 trial</a></strong>  
+<strong><a href="https://doi.org/10.1016/S0140-6736(21)00237-3" target="_blank">[<sup>177</sup>Lu]Lu-PSMA-617 versus cabazitaxel in patients with metastatic castration-resistant prostate cancer (TheraP): a randomised, open-label, phase 2 trial</a></strong>  
 </span>
 The Lancet, 2021
 
