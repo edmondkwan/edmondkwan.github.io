@@ -18,6 +18,27 @@ A full list of my journal publications is available on [PubMed](https://www.ncbi
 
 ::: {.g-col-3}
 
+![](images/ar-locus.png){fig-align="left"}
+
+:::
+
+::: {.g-col-8}
+
+<span class="publication-title">
+<strong><a href="https://doi.org/10.1016/j.annonc.2025.10.1236" target="_blank">Repertoire and clinical hierarchy of <em>AR</em> locus alterations in castration-resistant prostate cancer</a></strong>
+</span>  
+Annals of Oncology, 2026
+
+<span class="publication-author">
+<span>T. Virtanen<sup>&dagger;</sup></span>, <span>**Edmond M. Kwan**<sup>&dagger;</sup></span>, Karan Parekh, &hellip;, Kim N. Chi, Matti Annala, Alexander W. Wyatt.
+</span>
+
+\
+
+:::
+
+::: {.g-col-3}
+
 ![](images/lupsma-ctdna.png){fig-align="left"}
 
 :::
@@ -47,7 +68,7 @@ Nature Medicine, 2025
 
 <span class="publication-title">
 <strong><a href="https://aacrjournals.org/cancerres/article-abstract/85/4/791/751419/Plasma-Cell-Free-DNA-Chromatin-Immunoprecipitation" target="_blank">Plasma cell-free DNA chromatin immunoprecipitation profiling depicts phenotypic and clinical heterogeneity in advanced prostate cancer</a></strong>
-</span>
+</span>  
 Cancer Research, 2025
 
 <span class="publication-author">
