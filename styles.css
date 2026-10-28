@@ -43,6 +43,7 @@ a {
 }
 
 .publication-title a {
+    font-weight: 700;
     color: #B51D2A; /* Use your preferred shade of red */
     font-size: 20px;
     text-decoration: none;
